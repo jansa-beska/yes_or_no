@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+[policy](https://docs.google.com/document/d/16cuTaJ55lmKpmSR_KBFJBmAPFmLoqsFzLnI_s7peu4k/edit?usp=sharing)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
